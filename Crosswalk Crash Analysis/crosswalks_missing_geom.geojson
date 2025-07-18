@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "crosswalks_missing_geom",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "ID": 21929, "ObjectID": 21929, "Source": null, "Date_": null, "Control": null, "Location": 0.0, "Color": 0.0, "Ladder": null, "Primary_St": null, "Cross_Stre": null, "CrossType": null, "CrosswalkColorCodeDesc": "White", "ControlTypeDesc": "Other", "MarkingTypeDesc": "Continental", "Shape": null, "TOOLTIP": "Crosswalk Color: White\\nControl Type: Other\\nMarking Type: Continental", "NLA_URL": "navigatela/reports/dot_crosswalks_report.cfm?pk=21929" }, "geometry": null },
+{ "type": "Feature", "properties": { "ID": 21930, "ObjectID": 21930, "Source": null, "Date_": null, "Control": null, "Location": 0.0, "Color": 0.0, "Ladder": null, "Primary_St": null, "Cross_Stre": null, "CrossType": null, "CrosswalkColorCodeDesc": "White", "ControlTypeDesc": "Other", "MarkingTypeDesc": "Continental", "Shape": null, "TOOLTIP": "Crosswalk Color: White\\nControl Type: Other\\nMarking Type: Continental", "NLA_URL": "navigatela/reports/dot_crosswalks_report.cfm?pk=21930" }, "geometry": null }
+]
+}
